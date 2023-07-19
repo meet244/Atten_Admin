@@ -22,9 +22,9 @@
 2️⃣ Select the subject / class for attendance.<br/>
 3️⃣ Click on the "Take Attendance" button to take attendance for a class.<br/>
 
-<!-- ### Screenshots
+### Screenshots
 <img src="screenshots/1.png" width="200" height="375" alt="Screenshot 1"> <img src="screenshots/2.png" width="200" height="375" alt="Screenshot 2">
-<img src="screenshots/3.png" width="200" height="375" alt="Screenshot 3"> <img src="screenshots/4.png" width="200" height="375" alt="Screenshot 4"> -->
+<img src="screenshots/3.png" width="200" height="375" alt="Screenshot 3"> <img src="screenshots/4.png" width="200" height="375" alt="Screenshot 4">
 
 ### Future Enhancements
 🔧 Bug fixes and improvements.
