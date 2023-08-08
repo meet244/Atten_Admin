@@ -1,4 +1,4 @@
-# Atten Admin - Teacher's attendance app
+# Atten Admin - Teacher's attendance app 👨‍💼📱
 📱 The Atten Admin App is a mobile application that enables teachers to take attendance of students quickly and efficiently. The app uses Bluetooth and internet connectivity to automatically detect students' location and mark their attendance accordingly. The app also stores the history of the attendance records, and teachers can export the attendance records as a CSV file. Additionally, the app includes a feature for students to mark their attendance easily via Bluetooth and internet connection within seconds. 
 
 ## Download
