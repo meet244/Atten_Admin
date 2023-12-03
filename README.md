@@ -9,7 +9,7 @@
 
 ## Tutorial Video for Atten Admin App
 🎥 Watch our tutorial video on YouTube to learn how teachers can efficiently manage attendance using the Atten Admin App!
-![Group 3 (1)](
+
 [![Tutorial Video](https://github.com/meet244/Atten_Admin/assets/83262693/36393c72-5643-4208-8068-e26c88d0d35e)
 ](https://youtu.be/er7BXNjiiuA)
 
